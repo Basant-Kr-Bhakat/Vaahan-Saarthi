@@ -5,3 +5,4 @@ onnxruntime
 gunicorn
 static-ffmpeg
 tqdm
+imageio-ffmpeg
